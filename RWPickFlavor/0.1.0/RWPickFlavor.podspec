@@ -14,13 +14,13 @@ Pod::Spec.new do |s|
   s.license = { :type => "MIT", :file => "LICENSE" }
   
   # 4 - Replace with your name and e-mail address
-  s.author = { "Keegan Rush" => "keeganrush@gmail.com" }
+  s.author = { "Julian Bolivar" => "jabg0606@gmail.com" }
   
   # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-  s.homepage = "https://github.com/TheCodedSelf/RWPickFlavor"
+  s.homepage = "https://github.com/julianbolivar/RWPickFlavor.git"
   
   # 6 - Replace this URL with your own Git URL from "Quick Setup"
-  s.source = { :git => "https://github.com/TheCodedSelf/RWPickFlavor.git", 
+  s.source = { :git => "https://github.com/julianbolivar/RWPickFlavor.git", 
                :tag => "#{s.version}" }
   
   # 7
